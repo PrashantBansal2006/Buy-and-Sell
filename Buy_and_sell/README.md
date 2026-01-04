@@ -14,3 +14,15 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Dependencies to be installed to run the project locally (to be installed in Buy_and_sell folder)
+
+npm install -D vite
+npm install tailwindcss @tailwindcss/vite
+npm install lucide-react
+npm i react-router-dom
+npm install @reduxjs/toolkit
+npm install react-redux
+
+
+
